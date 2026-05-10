@@ -1,0 +1,5 @@
+"model","rmse","mae","qlike","correlation"
+"Historical Average",0.02303,0.017577,-4.9716,-0.016286
+"Linear Regression",0.019635,0.013661,-5.110987,0.516461
+"Random Forest",0.020904,0.013256,-5.162104,0.551053
+"XGBoost",0.022187,0.012656,-5.163324,0.513962
